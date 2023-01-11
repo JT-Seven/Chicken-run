@@ -1,4 +1,4 @@
-Chicken Run
+# H1 Chicken Run
 L’objectif de ce challenge est de créer une API en Javascript (NodeJS).
 
 Installation
