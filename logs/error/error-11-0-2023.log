@@ -1,0 +1,145 @@
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: mongoose is not defined[39m
+[31mReferenceError: mongoose is not defined[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:14:1[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)[39m
+[31m    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)[39m
+[31m    at async loadESM (node:internal/process/esm_loader:91:5)[39m
+[31m    at async handleMainPromise (node:internal/modules/run_main:65:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: mongoose is not defined[39m
+[31mReferenceError: mongoose is not defined[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:15:1[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)[39m
+[31m    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)[39m
+[31m    at async loadESM (node:internal/process/esm_loader:91:5)[39m
+[31m    at async handleMainPromise (node:internal/modules/run_main:65:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: DataBaseConnection is not defined[39m
+[31mReferenceError: DataBaseConnection is not defined[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:11:1[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)[39m
+[31m    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)[39m
+[31m    at async loadESM (node:internal/process/esm_loader:91:5)[39m
+[31m    at async handleMainPromise (node:internal/modules/run_main:65:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31mMongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31m    at NativeConnection.Connection.openUri (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\connection.js:695:11)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:409:10[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)[39m
+[31m    at Mongoose._promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:1262:10)[39m
+[31m    at Mongoose.connect (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:408:20)[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:16:10[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31mMongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31m    at NativeConnection.Connection.openUri (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\connection.js:695:11)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:409:10[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)[39m
+[31m    at Mongoose._promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:1262:10)[39m
+[31m    at Mongoose.connect (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:408:20)[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:16:10[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31mMongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31m    at NativeConnection.Connection.openUri (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\connection.js:695:11)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:409:10[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)[39m
+[31m    at Mongoose._promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:1262:10)[39m
+[31m    at Mongoose.connect (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:408:20)[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:16:10[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31mMongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[31m    at NativeConnection.Connection.openUri (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\connection.js:695:11)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:409:10[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5[39m
+[31m    at new Promise (<anonymous>)[39m
+[31m    at promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)[39m
+[31m    at Mongoose._promiseOrCallback (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:1262:10)[39m
+[31m    at Mongoose.connect (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\mongoose\lib\index.js:408:20)[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/app.js:16:10[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31m    at createChicken (file:///C:/Users/stern/develop/Test_technique/chicken-run/src/controllers/ChickenController.js:35:10)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at Function.handle (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:47:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31m    at createChicken (file:///C:/Users/stern/develop/Test_technique/chicken-run/src/controllers/ChickenController.js:35:10)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at Function.handle (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:47:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: normalizePort is not defined[39m
+[31mReferenceError: normalizePort is not defined[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/server.js:5:14[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)[39m
+[31m    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)[39m
+[31m    at async loadESM (node:internal/process/esm_loader:91:5)[39m
+[31m    at async handleMainPromise (node:internal/modules/run_main:65:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: normalizePort is not defined[39m
+[31mReferenceError: normalizePort is not defined[39m
+[31m    at file:///C:/Users/stern/develop/Test_technique/chicken-run/src/server.js:5:14[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:193:25)[39m
+[31m    at async Promise.all (index 0)[39m
+[31m    at async ESMLoader.import (node:internal/modules/esm/loader:526:24)[39m
+[31m    at async loadESM (node:internal/process/esm_loader:91:5)[39m
+[31m    at async handleMainPromise (node:internal/modules/run_main:65:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31m    at createChicken (file:///C:/Users/stern/develop/Test_technique/chicken-run/src/controllers/ChickenController.js:35:10)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at Function.handle (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:47:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[uncaughtException: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31mTypeError: Cannot read properties of undefined (reading 'toLowerCase')[39m
+[31m    at createChicken (file:///C:/Users/stern/develop/Test_technique/chicken-run/src/controllers/ChickenController.js:35:10)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:144:13)[39m
+[31m    at Route.dispatch (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\route.js:114:3)[39m
+[31m    at Layer.handle [as handle_request] (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\layer.js:95:5)[39m
+[31m    at C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:284:15[39m
+[31m    at Function.process_params (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:346:12)[39m
+[31m    at next (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:280:10)[39m
+[31m    at Function.handle (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:175:3)[39m
+[31m    at router (C:\Users\stern\develop\Test_technique\chicken-run\node_modules\express\lib\router\index.js:47:12)][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[Chicken validation failed: name: Path `name` is required., weight: Path `weight` is required.][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[Database connection error][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[Database connection error][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[Database connection error][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[Database connection error][39m
+[31mLevel:[error] LogTime: [11/01/2023] Message:-[The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.][39m
