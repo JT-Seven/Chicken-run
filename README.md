@@ -1,5 +1,9 @@
-# H1 Chicken Run
-L’objectif de ce challenge est de créer une API en Javascript (NodeJS).
+# Chicken Run
 
-Installation
-Commencer par creer un fichier .env en copiant le .env-example, ensuite connecter le a une base de donnne mongoDB. Puis lancer la command commande:
+Chicken run est une API en Javascript (NodeJS).
+
+## Installation
+
+Pour l'utiliser créer un fichier .env en reprenant le .env-example, ensuite connecter le à une base de donnne mongoDB et lancer la command commande:
+
+<button>npm run start</button>
